@@ -1,0 +1,7 @@
+com/eSports/tournament/Esportstournamentservices.class
+com/eSports/tournament/modelclassforentitites/PayoutSchemes.class
+com/eSports/tournament/repository/TournamentsRepository.class
+com/eSports/tournament/modelclassforentitites/Tournament.class
+com/eSports/tournament/modelclassforentitites/Game.class
+com/eSports/tournament/repository/controller/TournamentController.class
+com/eSports/tournament/modelclassforentitites/ContestDetails.class

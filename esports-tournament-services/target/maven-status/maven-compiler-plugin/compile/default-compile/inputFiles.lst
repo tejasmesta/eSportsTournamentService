@@ -1,0 +1,8 @@
+/home/tejas/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/esports-tournament-services/src/main/java/com/eSports/tournament/repository/TournamentsRepository.java
+/home/tejas/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/esports-tournament-services/src/main/java/com/eSports/tournament/configuration/SwaggerConfig.java
+/home/tejas/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/esports-tournament-services/src/main/java/com/eSports/tournament/modelclassforentitites/Game.java
+/home/tejas/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/esports-tournament-services/src/main/java/com/eSports/tournament/modelclassforentitites/Tournament.java
+/home/tejas/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/esports-tournament-services/src/main/java/com/eSports/tournament/repository/controller/TournamentController.java
+/home/tejas/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/esports-tournament-services/src/main/java/com/eSports/tournament/modelclassforentitites/ContestDetails.java
+/home/tejas/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/esports-tournament-services/src/main/java/com/eSports/tournament/Esportstournamentservices.java
+/home/tejas/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/esports-tournament-services/src/main/java/com/eSports/tournament/modelclassforentitites/PayoutSchemes.java
